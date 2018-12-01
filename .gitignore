@@ -1,2 +1,13 @@
 *.class
 *.log
+
+#intellij config
+*.iml
+.idea
+
+**/project
+**/target
+
+timeusage/src/main/resources/timeusage/atussum.csv
+stackoverflow/src/main/resources/timeusage/stackoverflow.csv
+wikipedia/src/main/resources/timeusage/wikipedia.dat
